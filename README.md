@@ -28,6 +28,10 @@
 
 **For engineers** — [**Read the framework**](https://github.com/richey-malhotra/barebear/tree/v0.4.1/src/barebear/). The whole thing is ~1,500 lines of Python. No magic, no DSLs, no metaprogramming. Open it.
 
+**For Chuds** - [**You are chud.**] _"You are the chud, gongrats"_ - A Strange Man
+
+![Björk](https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Bjork_Post.png/250px-Bjork_Post.png "Björk post album cover")
+
 ---
 
 ## Why barebear exists
